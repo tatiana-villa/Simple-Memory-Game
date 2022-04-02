@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Lose.gif)
-![](gif2-link-here)
+![](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Winning.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
