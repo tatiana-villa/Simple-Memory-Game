@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Lose.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
