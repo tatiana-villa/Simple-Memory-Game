@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Lose.gif)
-![](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Winning.gif)
-![](gif3-link-here)
+![x](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Lose.gif)
+![x](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_Winning.gif)
+![x](https://github.com/tatiana-villa/Simple-Memory-Game/blob/main/Light%20%26%20Sound%20Memory%20Game%20GIf_stopStart.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
